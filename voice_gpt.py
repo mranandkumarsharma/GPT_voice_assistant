@@ -7,7 +7,7 @@ import openai
 import speech_recognition as sr
 import uuid
 
-api_key = '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'
+api_key = 'Chat_GPT API key here'
 
 lang = 'en'
 r = sr.Recognizer()
