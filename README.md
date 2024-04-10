@@ -8,6 +8,7 @@ git clone https://github.com/mranandkumarsharma/voice-assisted-chatgpt.git
 
 # Install Dependencies:
 Navigate into the cloned directory and install the necessary dependencies by running:
+
 pip install -r requirements.txt
 
 # Obtain OpenAI API Key:
